@@ -1,1 +1,1 @@
-# weather-forcast
+# weather-forcast-npm-package
